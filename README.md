@@ -1,4 +1,4 @@
-<h1>🛒 API de Gerenciamento de Pedidos</h1>
+<h1>🛒 API de Gerenciamento de Produtos</h1>
 
 <p>API RESTful em <strong>ASP.NET Core</strong> para gestão de produtos, clientes e pedidos, com foco em regras reais de negócio como controle de estoque, desconto automático e validação de CPF.</p>
 
