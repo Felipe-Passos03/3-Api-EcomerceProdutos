@@ -60,7 +60,7 @@
 ## ▶️ Como Executar
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd NomeDoProjeto
+git clone https://github.com/Felipe-Passos03/3-Api-EcomerceProdutos
+cd 3-Api-EcomerceProdutos
 dotnet ef database update
 dotnet run
